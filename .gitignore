@@ -1,0 +1,9 @@
+#################
+## Gareth
+#################
+
+/app/admin/amazon*
+.sass-cache
+.sass-cache/*
+.codekit-cache
+.codekit-cache/*
